@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy is applicable to the Memorize Numbers app app (hereinafter referred to as “Application”) for mobile devices, which was developed by Manyu Lab LLC. (hereinafter referred to as “Service Provider”) as an Ad Supported service. This service is provided “AS IS”.
+This privacy policy is applicable to the Memorize Numbers app (hereinafter referred to as “Application”) for mobile devices, which was developed by Manyu Lab LLC. (hereinafter referred to as “Service Provider”) as an Ad Supported service. This service is provided “AS IS”.
 
 ## What information does the Application obtain and how is it used?
 

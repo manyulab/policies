@@ -65,7 +65,7 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [개인정보처리방침](./ghostword/ko/privacy.md)
   * [이용약관](./ghostword/ko/terms.md)
 
-## Hangul code game
+## Hangul Code Game
 
 * **English (영어)**
   * [Privacy Policy](./hangulcodegame/en/privacy.md)
@@ -164,7 +164,7 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [개인정보처리방침](./matchtower/ko/privacy.md)
   * [이용약관](./matchtower/ko/terms.md)
 
-## Memorize Numbers app
+## Memorize Numbers
 
 * **English (영어)**
   * [Privacy Policy](./memorize/en/privacy.md)
@@ -218,7 +218,7 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [개인정보처리방침](./tracecalc/ko/privacy.md)
   * [이용약관](./tracecalc/ko/terms.md)
 
-## "TXT QuickNote"
+## TXT QuickNote
 
 * **English (영어)**
   * [Privacy Policy](./txtquicknote/en/privacy.md)
@@ -227,7 +227,7 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [개인정보처리방침](./txtquicknote/ko/privacy.md)
   * [이용약관](./txtquicknote/ko/terms.md)
 
-## "TXT Tab Editor & Note"
+## TXT Tab Editor & Note
 
 * **English (영어)**
   * [Privacy Policy](./txttabeditor/en/privacy.md)
