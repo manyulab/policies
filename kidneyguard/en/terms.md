@@ -23,11 +23,27 @@ In terms of the Service Provider’s responsibility for your use of the applicat
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+## In-App Subscriptions and Billing
+
+The Application offers subscription-based premium services ("Premium Subscription"). The subscription details are as follows:
+* **Product ID**: `premium_sub`
+* **Subscription Plans**:
+  * **Monthly Plan (`monthly-plan`)**: 6,900 KRW per month (standard plan)
+  * **Yearly Plan (`yearly-plan`)**: 49,000 KRW per year (discounted anchor plan)
+* **Billing**: Payment will be charged to your Google Play Account at the confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
+* **Subscription Management**: You can manage and cancel your subscriptions in your Google Play Store account settings after purchase.
+
+## Cancellation and Refund Policy
+
+* **Cancellation**: You can cancel your subscription at any time through the Google Play Store. Upon cancellation, your premium benefits will continue until the end of your current billing period, after which the subscription will expire. We do not provide prorated refunds or credits for any partial-month subscription periods.
+* **Refund Requests**: All transactions and payments are processed and managed by Google Play. If you wish to request a refund (e.g., due to an accidental purchase or technical issue), you must request it directly through Google Play in accordance with Google Play's refund policies. Manyu Lab LLC. does not have the authority to directly issue refunds or reverse charges.
+* **Grace Period**: If you cancel your subscription, your premium status will remain active until the subscription's expiration date, as recorded by the Google Play system.
+
 ## Changes to These Terms and Conditions
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-03-24
+These terms and conditions are effective as of 2026-06-12
 
 ## Governing Law and Language
 
