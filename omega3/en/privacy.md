@@ -13,6 +13,8 @@ The Application collects information when you download and use it. This informat
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+Furthermore, if you purchase a subscription in the Application, the Service Provider receives transaction information such as your purchase token, order ID, product ID, base plan ID, and purchase status from Google Play to verify and manage your subscription. The Service Provider does not collect or store your payment card details or other financial information, which are handled directly by Google Play.
+
 ## Does the Application collect precise real time location information of the device?
 
 This Application collects your device’s location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
@@ -60,7 +62,7 @@ The Service Provider are concerned about safeguarding the confidentiality of you
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-12-22
+This privacy policy is effective as of 2026-06-14
 
 ## Your Consent
 
