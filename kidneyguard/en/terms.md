@@ -29,7 +29,7 @@ The Application offers subscription-based premium services ("Premium Subscriptio
 * **Product ID**: `premium_sub`
 * **Subscription Plans**:
   * **Monthly Plan (`monthly-plan`)**: 6,900 KRW per month (standard plan)
-  * **Yearly Plan (`yearly-plan`)**: 49,000 KRW per year (discounted anchor plan)
+  * **Yearly Plan (`yearly-plan-v2`)**: 49,000 KRW per year (discounted anchor plan)
 * **Billing**: Payment will be charged to your Google Play Account at the confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
 * **Subscription Management**: You can manage and cancel your subscriptions in your Google Play Store account settings after purchase.
 
@@ -43,7 +43,7 @@ The Application offers subscription-based premium services ("Premium Subscriptio
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-06-12
+These terms and conditions are effective as of 2026-06-16
 
 ## Governing Law and Language
 
