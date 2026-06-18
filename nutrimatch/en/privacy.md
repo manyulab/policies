@@ -4,15 +4,14 @@ This privacy policy is applicable to the NutriMatch app (hereinafter referred to
 
 ## What information does the Application obtain and how is it used?
 
-### User Provided Information
+The Application collects information when you download and use it. This information may include:
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+* Your device’s Internet Protocol address (e.g. IP address)
+* The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+* The time spent on the Application
+* Your mobile device’s operating system
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
-
-## Automatically Collected Information
-
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 Furthermore, if you purchase a subscription in the Application, the Service Provider receives transaction information such as your purchase token, order ID, product ID, base plan ID, and purchase status from Google Play to verify and manage your subscription. The Service Provider does not collect or store your payment card details or other financial information, which are handled directly by Google Play.
 
@@ -24,6 +23,8 @@ This Application collects your device’s location, which helps the Service Prov
 * **Analytics and Improvements**: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
 * **Third-Party Services**: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
+The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+
 ## Do third parties see and/or have access to information obtained by the Application?
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
@@ -32,6 +33,8 @@ Please note that the Application utilizes third-party services that have their o
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+  - Google AdMob uses cookies, device identifiers, and IP addresses to serve and measure advertisements.
+  - **Important for EEA, UK, and Switzerland Users**: Starting August 3, 2026, Google will deploy IP-based measurement and customization solutions in these regions utilizing Privacy-Enhancing Technologies (PET) (including on-device processing, trusted execution environments, and multi-party computation) and the device's IP address. This processing is registered under IAB Europe's TCF as Feature 3: **"Identify devices based on information transmitted automatically."** We comply with the Google EU User Consent Policy, obtaining legally valid consent from users in these regions. For more details on how Google processes this data, please visit [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites) and [Google's Privacy Policy](https://policies.google.com/privacy).
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -41,11 +44,11 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 ## What are my opt-out rights?
 
-You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can halt all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 ## Data Retention Policy, Managing Your Information
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at manyulabllc@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you’d like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at manyulabllc@gmail.com and we will respond in a reasonable time.
 
 ## Children
 
@@ -61,7 +64,11 @@ The Service Provider are concerned about safeguarding the confidentiality of you
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-05-13
+This privacy policy is effective as of 2026-06-18
+
+## Your Consent
+
+By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
 
 ## Governing Language
 

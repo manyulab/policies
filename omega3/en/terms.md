@@ -43,7 +43,7 @@ The Application offers subscription-based premium services ("Premium Subscriptio
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-06-16
+These terms and conditions are effective as of 2026-06-18
 
 ## Governing Law and Language
 

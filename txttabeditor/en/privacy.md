@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy is applicable to the TXT Tab Editor & Note app (hereinafter referred to as “Application”) for mobile devices, which was developed by Manyu Lab LLC. (hereinafter referred to as “Service Provider”) as a Free service. This service is provided “AS IS”.
+This privacy policy is applicable to the TXT Tab Editor &amp; Note app (hereinafter referred to as “Application”) for mobile devices, which was developed by Manyu Lab LLC. (hereinafter referred to as “Service Provider”) as a Free service. This service is provided “AS IS”.
 
 ## What information does the Application obtain and how is it used?
 
@@ -61,7 +61,7 @@ The Service Provider are concerned about safeguarding the confidentiality of you
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-05-23
+This privacy policy is effective as of 2026-06-18
 
 ## Your Consent
 
