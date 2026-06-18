@@ -43,7 +43,7 @@ The Application offers subscription-based premium services ("Premium Subscriptio
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-06-16
+These terms and conditions are effective as of 2026-06-18
 
 ## Governing Law and Language
 
@@ -52,4 +52,3 @@ These Terms and Conditions (and the Privacy Policy) are drafted in the Korean la
 ## Contact Us
 
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at manyulabllc@gmail.com.
-

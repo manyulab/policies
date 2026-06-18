@@ -31,6 +31,8 @@ Please note that the Application utilizes third-party services that have their o
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+  - Google AdMob uses cookies, device identifiers, and IP addresses to serve and measure advertisements.
+  - **Important for EEA, UK, and Switzerland Users**: Starting August 3, 2026, Google will deploy IP-based measurement and customization solutions in these regions utilizing Privacy-Enhancing Technologies (PET) (including on-device processing, trusted execution environments, and multi-party computation) and the device's IP address. This processing is registered under IAB Europe's TCF as Feature 3: **"Identify devices based on information transmitted automatically."** We comply with the Google EU User Consent Policy, obtaining legally valid consent from users in these regions. For more details on how Google processes this data, please visit [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites) and [Google's Privacy Policy](https://policies.google.com/privacy).
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -60,7 +62,7 @@ The Service Provider are concerned about safeguarding the confidentiality of you
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-08-12
+This privacy policy is effective as of 2026-06-18
 
 ## Your Consent
 
