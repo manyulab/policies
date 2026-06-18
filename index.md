@@ -246,4 +246,4 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [이용약관](./visionloop/ko/terms.md)
 
 ---
-*Last updated: 2026-05-29*
+*Last updated: 2026-06-18*
