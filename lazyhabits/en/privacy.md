@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy is applicable to the Choice Chain app (hereinafter referred to as “Application”) for mobile devices, which was developed by Manyu Lab LLC. (hereinafter referred to as “Service Provider”) as an Ad Supported service. This service is provided “AS IS”.
+This privacy policy is applicable to the Lazy Habits app (hereinafter referred to as “Application”) for mobile devices, which was developed by Manyu Lab LLC. (hereinafter referred to as “Service Provider”) as an Ad Supported service. This service is provided “AS IS”.
 
 ## What information does the Application obtain and how is it used?
 
@@ -12,6 +12,8 @@ The Application collects information when you download and use it. This informat
 * Your mobile device’s operating system
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+
+Furthermore, if you purchase a subscription in the Application, the Service Provider receives transaction information such as your purchase token, order ID, product ID, base plan ID, and purchase status from Google Play to verify and manage your subscription. The Service Provider does not collect or store your payment card details or other financial information, which are handled directly by Google Play.
 
 ## Does the Application collect precise real time location information of the device?
 
