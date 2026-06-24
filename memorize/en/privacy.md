@@ -15,13 +15,7 @@ For a better experience, while using the Application, the Service Provider may r
 
 ## Does the Application collect precise real time location information of the device?
 
-This Application collects your device’s location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
-
-* **Geolocation Services**: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-* **Analytics and Improvements**: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-* **Third-Party Services**: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
-
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+This Application does not collect precise information about the location of your mobile device.
 
 ## Do third parties see and/or have access to information obtained by the Application?
 
@@ -64,7 +58,7 @@ The Service Provider are concerned about safeguarding the confidentiality of you
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-06-18
+This privacy policy is effective as of 2026-06-25
 
 ## Your Consent
 
