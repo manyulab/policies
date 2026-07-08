@@ -110,6 +110,15 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [개인정보처리방침](./kidneyguard/ko/privacy.md)
   * [이용약관](./kidneyguard/ko/terms.md)
 
+## Lazy Habits
+
+* **English (영어)**
+  * [Privacy Policy](./lazyhabits/en/privacy.md)
+  * [Terms & Conditions](./lazyhabits/en/terms.md)
+* **Korean (한국어 - 기준 언어)**
+  * [개인정보처리방침](./lazyhabits/ko/privacy.md)
+  * [이용약관](./lazyhabits/ko/terms.md)
+
 ## Lotto Math
 
 * **English (영어)**
@@ -246,4 +255,4 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [이용약관](./visionloop/ko/terms.md)
 
 ---
-*Last updated: 2026-06-18*
+*Last updated: 2026-07-08*
