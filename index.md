@@ -65,6 +65,15 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [개인정보처리방침](./ghostword/ko/privacy.md)
   * [이용약관](./ghostword/ko/terms.md)
 
+## Glucose Guard
+
+* **English (영어)**
+  * [Privacy Policy](./glucoseguard/en/privacy.md)
+  * [Terms & Conditions](./glucoseguard/en/terms.md)
+* **Korean (한국어 - 기준 언어)**
+  * [개인정보처리방침](./glucoseguard/ko/privacy.md)
+  * [이용약관](./glucoseguard/ko/terms.md)
+
 ## Hangul Code Game
 
 * **English (영어)**
@@ -255,4 +264,4 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [이용약관](./visionloop/ko/terms.md)
 
 ---
-*Last updated: 2026-07-08*
+*Last updated: 2026-08-10*
