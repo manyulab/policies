@@ -4,41 +4,47 @@ This privacy policy is applicable to the Bug Blitz app (hereinafter referred to 
 
 ## What information does the Application obtain and how is it used?
 
-The Application collects information when you download and use it. This information may include:
+The Application collects and processes information when you download and use it. This information may include:
 
-* Your device’s Internet Protocol address (e.g. IP address)
-* The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-* The time spent on the Application
-* Your mobile device’s operating system
+* **Device or Other Identifiers**: Your mobile device's Advertising ID (`AD_ID`), Firebase Instance ID, and FCM push notification tokens are collected.
+* **App Activity & Interaction Data**: Usage statistics, such as pages visited in the Application, feature interaction logs, access dates, and time spent, are collected.
+* **App Info and Performance (Crash Logs & Diagnostics)**: Crash reports and system diagnostic logs are collected to analyze errors and improve app stability.
+* **Automatically Collected Data**: Your device’s Internet Protocol (IP) address, mobile operating system version, and other telemetry data.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+## Does the Application collect location information?
 
-## Does the Application collect precise real time location information of the device?
+This Application does not directly collect or store precise real-time GPS location information from your mobile device. However, third-party advertising partners integrated into the Application (such as Google AdMob) may collect and process **coarse location information** derived from your IP address for ad serving, personalization, ad measurement, and fraud prevention purposes.
 
-This Application does not collect precise information about the location of your mobile device.
+## Encryption in Transit and Security
+
+The Service Provider values the confidentiality of your information. All data transmitted between the Application and external servers is encrypted in transit using secure protocols (HTTPS). The Service Provider provides physical, electronic, and procedural safeguards to protect information maintained. Access to this information is limited to authorized personnel who require it to operate, develop, or improve the Application.
 
 ## Do third parties see and/or have access to information obtained by the Application?
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Data may be transmitted to third-party service providers to assist the Service Provider in improving the Application, delivering advertisements, analyzing app stability, and sending push notifications.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+The Application utilizes third-party services that have their own Privacy Policies regarding data processing. Below are the links to the Privacy Policies of third-party service providers used by the Application:
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-  - Google AdMob uses cookies, device identifiers, and IP addresses to serve and measure advertisements.
-  - **Important for EEA, UK, and Switzerland Users**: Starting August 3, 2026, Google will deploy IP-based measurement and customization solutions in these regions utilizing Privacy-Enhancing Technologies (PET) (including on-device processing, trusted execution environments, and multi-party computation) and the device's IP address. This processing is registered under IAB Europe's TCF as Feature 3: **"Identify devices based on information transmitted automatically."** We comply with the Google EU User Consent Policy, obtaining legally valid consent from users in these regions. For more details on how Google processes this data, please visit [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites) and [Google's Privacy Policy](https://policies.google.com/privacy).
+  - Google AdMob uses cookies, device identifiers (`AD_ID`), IP addresses, and coarse location data to serve, personalize, and measure advertisements with advertising partners.
+  - **Important for EEA, UK, and Switzerland Users**: Google deploys IP-based measurement and customization solutions using Privacy-Enhancing Technologies (PET) and device IP addresses. We comply with the Google EU User Consent Policy, obtaining valid user consent. For details, visit [Google Partner Sites](https://policies.google.com/technologies/partner-sites) and [Google Privacy Policy](https://policies.google.com/privacy).
 * [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+  - Collects app interaction data and device/instance identifiers to analyze service performance and user activity.
 * [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+  - Collects crash logs and diagnostic information to monitor application stability and resolve errors.
+* [Firebase Cloud Messaging (FCM)](https://firebase.google.com/support/privacy/)
+  - Collects and uses FCM registration tokens (device identifiers) for developer communications and push notification delivery.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
-* as required by law, such as to comply with a subpoena, or similar legal process;
+* as required by law, such as to comply with a subpoena or similar legal process;
 * when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-* with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+* with trusted service providers who work on their behalf, do not have an independent use of the information disclosed, and have agreed to adhere to the rules set forth in this privacy statement.
 
 ## What are my opt-out rights?
 
-You can halt all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can halt all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as available as part of your mobile device or via the mobile application marketplace or network.
 
 ## Data Retention Policy, Managing Your Information
 
@@ -48,17 +54,13 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (manyulabllc@gmail.com) so that they will be able to take the necessary actions.
-
-## Security
-
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discovers that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (manyulabllc@gmail.com) so that they will be able to take the necessary actions.
 
 ## Changes
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-07-14.
+This privacy policy is effective as of 2026-08-09.
 
 ## Your Consent
 
