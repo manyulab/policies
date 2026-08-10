@@ -109,6 +109,9 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
 * **Korean (한국어 - 기준 언어)**
   * [개인정보처리방침](./jsoncsvmaster/ko/privacy.md)
   * [이용약관](./jsoncsvmaster/ko/terms.md)
+* **Japanese (일본어)**
+  * [Privacy Policy](./jsoncsvmaster/ja/privacy.md)
+  * [Terms & Conditions](./jsoncsvmaster/ja/terms.md)
 
 ## Kidney Guardian
 
@@ -226,6 +229,9 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
 * **Korean (한국어 - 기준 언어)**
   * [개인정보처리방침](./shoppinglist/ko/privacy.md)
   * [이용약관](./shoppinglist/ko/terms.md)
+* **Japanese (일본어)**
+  * [Privacy Policy](./shoppinglist/ja/privacy.md)
+  * [Terms & Conditions](./shoppinglist/ja/terms.md)
 
 ## TraceCalc
 
@@ -244,6 +250,9 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
 * **Korean (한국어 - 기준 언어)**
   * [개인정보처리방침](./txtquicknote/ko/privacy.md)
   * [이용약관](./txtquicknote/ko/terms.md)
+* **Japanese (일본어)**
+  * [Privacy Policy](./txtquicknote/ja/privacy.md)
+  * [Terms & Conditions](./txtquicknote/ja/terms.md)
 
 ## TXT Tab Editor & Note
 
@@ -253,6 +262,9 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
 * **Korean (한국어 - 기준 언어)**
   * [개인정보처리방침](./txttabeditor/ko/privacy.md)
   * [이용약관](./txttabeditor/ko/terms.md)
+* **Japanese (일본어)**
+  * [Privacy Policy](./txttabeditor/ja/privacy.md)
+  * [Terms & Conditions](./txttabeditor/ja/terms.md)
 
 ## Vision Loop
 
