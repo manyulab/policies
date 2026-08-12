@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy is applicable to the Nutrient Rankings app (hereinafter referred to as “Application”) for mobile devices, which was developed by Manyu Lab LLC. (hereinafter referred to as “Service Provider”) as an Ad Supported service. This service is provided “AS IS”.
+This privacy policy is applicable to the NutriRank app (hereinafter referred to as “Application”) for mobile devices, which was developed by Manyu Lab LLC. (hereinafter referred to as “Service Provider”) as an Ad Supported service. This service is provided “AS IS”.
 
 ## What information does the Application obtain and how is it used?
 
@@ -55,7 +55,7 @@ The Application does not address anyone under the age of 13. The Service Provide
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-08-10.
+This privacy policy is effective as of 2026-08-12.
 
 ## Your Consent
 
