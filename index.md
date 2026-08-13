@@ -203,7 +203,7 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [개인정보처리방침](./nutrimatch/ko/privacy.md)
   * [이용약관](./nutrimatch/ko/terms.md)
 
-## NutriRank
+## Nutrient Rankings
 
 * **English (영어)**
   * [Privacy Policy](./nutrirank/en/privacy.md)
@@ -285,4 +285,4 @@ Welcome to the official app policy page of Manyu Lab. Below is the list of Priva
   * [이용약관](./visionloop/ko/terms.md)
 
 ---
-*Last updated: 2026-08-12*
+*Last updated: 2026-08-13*
