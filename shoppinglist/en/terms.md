@@ -23,11 +23,29 @@ In terms of the Service Provider’s responsibility for your use of the applicat
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+## In-App Purchases (One-Time Purchase)
+
+The Application offers a non-consumable, one-time in-app purchase ("Lifetime Ad Removal & Premium") that grants permanent access with a single payment. The details of the product are as follows:
+* **Product ID**: `remove_ads_permanent`
+* **Purchase Option ID**: `lifetime`
+* **Price**: 3,900 KRW (One-time payment for lifetime access)
+* **Key Benefits**:
+  * Permanent 100% removal of all advertisements (in-list native ads, app open ads, etc.)
+  * Unlimited permanent access to the Copy List (`Copy List`) feature
+  * Unlimited permanent access to the Tag Filtering (`Tag Filtering`) feature on the item management screen
+  * Permanent premium status without needing to watch rewarded ads for temporary access
+* **Billing & Restoration**: Payment will be charged to your Google Play Account at confirmation of purchase. This is a one-time non-consumable purchase, not a recurring subscription, and will never automatically renew. As long as you use the same Google Play account, you can restore your lifetime premium benefits on new devices or upon reinstallation at no additional charge using the "Restore Purchases" feature within the app.
+
+## Refund Policy
+
+* **Refund Requests**: All payments and transactions are processed and handled directly by Google Play. If you wish to cancel a purchase or request a refund, you must **request a refund directly through Google Play** in accordance with Google Play's refund policies. Manyu Lab LLC. does not collect payment details directly and does not have the authority to process or issue refunds directly.
+* **Revocation of Access**: When a refund is completed through Google Play, your premium entitlements will be revoked, ads will reappear, and premium features will be locked again.
+
 ## Changes to These Terms and Conditions
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-07-14.
+These terms and conditions are effective as of 2026-09-15.
 
 ## Governing Law and Language
 
