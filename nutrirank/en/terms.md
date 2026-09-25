@@ -39,12 +39,13 @@ The Application offers subscription-based premium services ("Premium Subscriptio
 * **Cancellation**: You can cancel your subscription at any time through the Google Play Store. Upon cancellation, your premium benefits will continue until the end of your current billing period, after which the subscription will expire. We do not provide prorated refunds or credits for any partial subscription periods.
 * **Refund Requests**: All transactions and payments are processed and managed by Google Play. If you wish to request a refund (e.g., due to an accidental purchase or technical issue), you must request it directly through Google Play in accordance with Google Play's refund policies. Manyu Lab LLC. does not have the authority to directly issue refunds or reverse charges.
 * **Grace Period**: If you cancel your subscription, your premium status will remain active until the subscription's expiration date, as recorded by the Google Play system.
+* **Service Interruption & Limitation of Liability**: In the event that the Application is discontinued, removed from Google Play, or becomes unavailable due to platform policy enforcement, operating system compatibility shifts, or service termination, any upcoming automatic subscription renewals will cease. If service is interrupted during an active, pre-paid subscription period, any eligibility for partial or prorated refunds for the remaining term shall be governed strictly by Google Play’s refund policies and dispute procedures. The Service Provider assumes no liability for indirect damages, lost data, or separate monetary compensation arising from service termination.
 
 ## Changes to These Terms and Conditions
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-08-13.
+These terms and conditions are effective as of 2026-09-25.
 
 ## Governing Law and Language
 
