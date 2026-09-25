@@ -35,6 +35,7 @@ The Application offers a non-consumable, one-time in-app purchase ("Lifetime Ad 
   * Unlimited permanent access to the Tag Filtering (`Tag Filtering`) feature on the item management screen
   * Permanent premium status without needing to watch rewarded ads for temporary access
 * **Billing & Restoration**: Payment will be charged to your Google Play Account at confirmation of purchase. This is a one-time non-consumable purchase, not a recurring subscription, and will never automatically renew. As long as you use the same Google Play account, you can restore your lifetime premium benefits on new devices or upon reinstallation at no additional charge using the "Restore Purchases" feature within the app.
+* **Product Lifecycle & Limitation of Liability**: "Lifetime" access refers to the operational and commercial lifecycle of the Application ("Life of the Product"), rather than the natural lifetime of the purchaser. In the event that the Application is discontinued, removed from the marketplace, or becomes unavailable for redownload due to changes in Google Play platform policies, operating system compatibility shifts, marketplace enforcement, or service termination, the Service Provider shall not be liable for any direct damages, compensation, or independent refund liabilities.
 
 ## Refund Policy
 
@@ -45,7 +46,7 @@ The Application offers a non-consumable, one-time in-app purchase ("Lifetime Ad 
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-09-15.
+These terms and conditions are effective as of 2026-09-25.
 
 ## Governing Law and Language
 

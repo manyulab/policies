@@ -6,7 +6,8 @@ This privacy policy is applicable to the JSON CSV Master app (hereinafter referr
 
 The Application collects and processes information when you download and use it. This information may include:
 
-* **Device or Other Identifiers**: Your mobile device's Advertising ID (`AD_ID`) and service identifiers are collected.
+* **Financial Information (Purchase History)**: If you purchase an in-app item within the Application, transaction details such as purchase token, order ID, product ID, and purchase status are received and processed from Google Play to verify and manage your premium entitlements. The Service Provider does not directly collect or store payment card details or other raw financial information, which are handled directly by Google Play and payment processors.
+* **Device or Other Identifiers**: Your mobile device's Advertising ID (`AD_ID`) and anonymous device identifiers for purchase and entitlement management are collected.
 * **Automatically Collected Data**: Your device’s Internet Protocol (IP) address, mobile operating system version, and other telemetry data.
 
 ## Does the Application collect location information?
@@ -19,7 +20,7 @@ The Service Provider values the confidentiality of your information. All data tr
 
 ## Do third parties see and/or have access to information obtained by the Application?
 
-Data may be transmitted to third-party service providers to assist the Service Provider in improving the Application and delivering advertisements.
+Data may be transmitted to third-party service providers to assist the Service Provider in improving the Application, delivering advertisements, and verifying in-app purchase status.
 
 The Application utilizes third-party services that have their own Privacy Policies regarding data processing. Below are the links to the Privacy Policies of third-party service providers used by the Application:
 
@@ -27,6 +28,8 @@ The Application utilizes third-party services that have their own Privacy Polici
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
   - Google AdMob uses cookies, device identifiers (`AD_ID`), IP addresses, and coarse location data to serve, personalize, and measure advertisements with advertising partners.
   - **Important for EEA, UK, and Switzerland Users**: Google deploys IP-based measurement and customization solutions using Privacy-Enhancing Technologies (PET) and device IP addresses. We comply with the Google EU User Consent Policy, obtaining valid user consent. For details, visit [Google Partner Sites](https://policies.google.com/technologies/partner-sites) and [Google Privacy Policy](https://policies.google.com/privacy).
+* [RevenueCat](https://www.revenuecat.com/privacy/)
+  - Processes purchase history and anonymous device identifiers to verify in-app purchase entitlements and handle billing support.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -52,7 +55,7 @@ The Application does not address anyone under the age of 13. The Service Provide
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-08-09.
+This privacy policy is effective as of 2026-09-25.
 
 ## Your Consent
 
